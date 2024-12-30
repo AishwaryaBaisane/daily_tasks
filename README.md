@@ -1,5 +1,20 @@
 # daily_task
 
+## 📋 Todo App
+
+### 🌟 Features
+
+- 🎯 Fetch Todos from API.
+- 🖼️ Toggle Views between List & Grid.
+- 🎨 Dark/Light Theme with state saved.
+- ✅ Highlight Completed Todos with colors.
+- ⚡ Attractive UI and smooth animations.
+
+### 🔧 Tech Stack
+- Android: Kotlin/Java, Retrofit, SharedPreferences, RecyclerView.
+- Web: React/Vanilla JS, CSS, LocalStorage.
+
+### 📽️ Demo
 <img src = "https://github.com/user-attachments/assets/cf6ba8e8-125d-4c03-95f6-8962175c2440" height = 65% width = 22%>
 <img src = "https://github.com/user-attachments/assets/0c6c2188-2ba5-4af4-8d47-4aa0542858e5" height = 65% width = 22%>
 <img src = "https://github.com/user-attachments/assets/ae149712-d4a6-45bf-93b4-f07d8ef4a578" height = 65% width = 22%>
