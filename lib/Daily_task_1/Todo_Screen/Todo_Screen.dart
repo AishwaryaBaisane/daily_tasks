@@ -37,10 +37,11 @@ class TodoScreen extends StatelessWidget {
         builder: (context, provider, child) {
           if (provider.todos.isEmpty) {
             return const Center(
-                child: CircularProgressIndicator(
-              backgroundColor: Colors.redAccent,
-              color: Colors.redAccent,
-            ));
+              child: CircularProgressIndicator(
+                backgroundColor: Colors.green,
+                color: Colors.redAccent,
+              ),
+            );
           }
           return Padding(
             padding: const EdgeInsets.only(left: 10, right: 10),
