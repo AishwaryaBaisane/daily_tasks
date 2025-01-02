@@ -11,8 +11,8 @@
 - ⚡ Attractive UI and smooth animations.
 
 ### 🔧 Tech Stack
-- Android: Kotlin/Java, Retrofit, SharedPreferences, RecyclerView.
-- Web: React/Vanilla JS, CSS, LocalStorage.
+- **Android:** Kotlin/Java, Retrofit, SharedPreferences, RecyclerView.
+- **Web:** React/Vanilla JS, CSS, LocalStorage.
 
 ### 📽️ Demo
 <img src = "https://github.com/user-attachments/assets/cf6ba8e8-125d-4c03-95f6-8962175c2440" height = 65% width = 22%>
