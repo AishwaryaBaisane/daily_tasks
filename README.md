@@ -92,12 +92,12 @@ flutter run
 
 ### 📸 ScreenShots :
 
-<img src = "https://github.com/user-attachments/assets/b1b3cb28-55e9-49dc-bf8f-902fc2615f90" height = 65% width = 22%>
-<img src = "https://github.com/user-attachments/assets/e72af1e1-769f-4e1b-9c50-e2d294d004b3" height = 65% width = 22%>
-<img src = "https://github.com/user-attachments/assets/e9db369a-a727-400b-a1ee-753b059c36f7" height = 65% width = 22%>
-<img src = "https://github.com/user-attachments/assets/e95b5137-62bb-43e6-bae3-fd44c3f4e996" height = 65% width = 22%>
-<img src = "https://github.com/user-attachments/assets/281cadf0-ce5a-4fb9-a018-24ca8e984625" height = 65% width = 22%>
-<img src = "https://github.com/user-attachments/assets/fbe1c280-6574-453f-9da0-85b97ee3816e" height = 65% width = 22%>
+<img src = "https://github.com/user-attachments/assets/b1b3cb28-55e9-49dc-bf8f-902fc2615f90" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/e72af1e1-769f-4e1b-9c50-e2d294d004b3" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/e9db369a-a727-400b-a1ee-753b059c36f7" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/e95b5137-62bb-43e6-bae3-fd44c3f4e996" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/281cadf0-ce5a-4fb9-a018-24ca8e984625" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/fbe1c280-6574-453f-9da0-85b97ee3816e" height = 65% width = 25%>
 
 ### 📽️ Demo
 
