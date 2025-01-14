@@ -145,10 +145,9 @@ Displays a toast notification when the user is offline.
 <img src = "https://github.com/user-attachments/assets/3b7262e3-15e8-4b7c-b6d0-5848d3451780" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/7743018f-9838-4197-9d85-e14c14941b9e" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/608cdca3-ec03-4f5a-8546-8ce18d109b32" height = 65% width = 25%>
-<div align="center">
 <img src = "https://github.com/user-attachments/assets/561d6bd6-5e63-486f-8ec3-acb556cd8783" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/229bab60-00e0-4c23-bec1-e48bd893dc74" height = 65% width = 25%>
-</div>
+<img src = "https://github.com/user-attachments/assets/608007e7-6810-4f90-8f3b-8fb068ab6402" height = 65% width = 25%>
 
 ### 📽️ Demo :
 
