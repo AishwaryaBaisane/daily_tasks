@@ -107,6 +107,9 @@ flutter run
 </div>
 
 
+<br>
+<br>
+
 ## 🌐 User Details App 📱
 - A Flutter-based app that fetches user details from an API, stores them locally, and provides functionality to manage user data.
 
@@ -138,7 +141,7 @@ Displays a toast notification when the user is offline.
 - Check internet availability, and enjoy a seamless offline experience with a toast for connection updates.
 
 
-### 📷 Screenshots (Add Your Screenshots Here)
+### 📷 Screenshots :
 
 <img src = "https://github.com/user-attachments/assets/f654d390-9210-4029-8ff5-1470f4137f8d" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/7743018f-9838-4197-9d85-e14c14941b9e" height = 65% width = 25%>
