@@ -100,7 +100,7 @@ flutter run
 <img src = "https://github.com/user-attachments/assets/281cadf0-ce5a-4fb9-a018-24ca8e984625" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/b1b3cb28-55e9-49dc-bf8f-902fc2615f90" height = 65% width = 25%>
 
-### 📽️ Demo
+### 📽️ Demo :
 
 <div align="center">
   <video height="450" controls src="https://github.com/user-attachments/assets/5280adb9-b152-4fcc-8577-a0aad7209eea"></video>
@@ -142,12 +142,19 @@ Displays a toast notification when the user is offline.
 
 
 ### 📷 Screenshots :
-
-<img src = "https://github.com/user-attachments/assets/f654d390-9210-4029-8ff5-1470f4137f8d" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/3b7262e3-15e8-4b7c-b6d0-5848d3451780" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/7743018f-9838-4197-9d85-e14c14941b9e" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/608cdca3-ec03-4f5a-8546-8ce18d109b32" height = 65% width = 25%>
 <div align="center">
 <img src = "https://github.com/user-attachments/assets/561d6bd6-5e63-486f-8ec3-acb556cd8783" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/229bab60-00e0-4c23-bec1-e48bd893dc74" height = 65% width = 25%>
 </div>
+
+### 📽️ Demo :
+
+<div align="center">
+  <video height="450" controls src="https://github.com/user-attachments/assets/42f66bc4-3e14-449b-83fb-7dc29deab54a"></video>
+</div>
+
+
 
