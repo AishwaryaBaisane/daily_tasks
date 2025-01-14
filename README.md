@@ -107,9 +107,44 @@ flutter run
 </div>
 
 
+## 🌐 User Details App 📱
+- A Flutter-based app that fetches user details from an API, stores them locally, and provides functionality to manage user data.
+
+### ✨ Features:
+- 🔄 Fetch User Data: Retrieves user details from Escuela API.
+- 💾 Local Storage: Uses SQFlite to store user data on the device.
+  
+### 🛠️ CRUD Operations:
+- Read: View all stored user details with a clean, user-friendly UI.
+- Update: Modify user details in the local database.
+- Delete: Remove user records from local storage.
+  
+#### 🆕 Data Re-fetching: If all data is deleted, retrieve fresh data from the API with one button click.
+
+- 📡 Internet Check: Monitors connectivity status:
+Displays a toast notification when the user is offline.
+- 🎨 Responsive UI: Ensures a seamless user experience across devices.
+  
+### 🛠️ Tech Stack:
+- Flutter: Cross-platform app development.
+- SQFlite: Local database storage.
+- HTTP: API calls to fetch user data.
+- Connectivity Plus: Network connectivity monitoring.
+  
+### 🚀 How to Use:
+- Open the app and view user details on the home page.
+- Perform Read, Update, Delete operations on the user data stored in local storage.
+- If data is deleted, click the "Fetch Again" button to re-fetch users from the API.
+- Check internet availability, and enjoy a seamless offline experience with a toast for connection updates.
 
 
+### 📷 Screenshots (Add Your Screenshots Here)
 
-
-
+<img src = "https://github.com/user-attachments/assets/f654d390-9210-4029-8ff5-1470f4137f8d" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/7743018f-9838-4197-9d85-e14c14941b9e" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/608cdca3-ec03-4f5a-8546-8ce18d109b32" height = 65% width = 25%>
+<div align="center">
+<img src = "https://github.com/user-attachments/assets/561d6bd6-5e63-486f-8ec3-acb556cd8783" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/229bab60-00e0-4c23-bec1-e48bd893dc74" height = 65% width = 25%>
+</div>
 
