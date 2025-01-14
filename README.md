@@ -152,8 +152,12 @@ Displays a toast notification when the user is offline.
 ### 📽️ Demo :
 
 <div align="center">
-  <video height="450" controls src="https://github.com/user-attachments/assets/42f66bc4-3e14-449b-83fb-7dc29deab54a"></video>
+  <video height="450" controls src="https://github.com/user-attachments/assets/39861a96-3cd7-4de9-9ab1-103475823b73"></video>
 </div>
+
+
+
+
 
 
 
