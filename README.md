@@ -157,6 +157,7 @@ Displays a toast notification when the user is offline.
 
 <br>
 <br>
+
 # Firebase Authentication System
 
 ## 🌟 Features
