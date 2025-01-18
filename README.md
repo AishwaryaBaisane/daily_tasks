@@ -197,7 +197,22 @@ Displays a toast notification when the user is offline.
    - Set up Firestore Database.
    - Get your Firebase Config and replace the placeholders in the code.
 
-3. Run the app:
+3. pubspec.yaml:
+
+```dart
+Ensure the following dependencies are included:
+yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^latest_version
+  firebase_auth: ^latest_version
+  cloud_firestore: ^latest_version
+  google_sign_in: ^latest_version
+  image_picker: ^latest_version
+```
+
+5. Run the app:
    ```bash
    flutter run
    ```
