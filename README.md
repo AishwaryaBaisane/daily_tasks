@@ -155,6 +155,114 @@ Displays a toast notification when the user is offline.
   <video height="450" controls src="https://github.com/user-attachments/assets/39861a96-3cd7-4de9-9ab1-103475823b73"></video>
 </div>
 
+<br>
+<br>
+# Firebase Authentication System
+
+## 🌟 Features
+
+- **SignIn, SignUp, and SignOut System** using Firebase Authentication.
+- Supports **Email/Password** and **Google Sign-In** for authentication.
+- Displays the logged-in user's details on the homepage.
+- Collects and stores additional user details during sign-up:
+  - Name
+  - Email
+  - Password
+  - Phone
+  - Address
+  - Profile Image
+
+## 🛠️ Technologies Used
+
+- **Flutter**
+- **Dart**
+- **Material Design Widgets**
+- **Firebase**
+  - Firebase Authentication
+  - Firestore Database
+
+## 🛠️ Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/firebase-auth-system.git
+   cd firebase-auth-system
+   ```
+
+2. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+3. Set up Firebase:
+   - Go to the [Firebase Console](https://console.firebase.google.com/).
+   - Create a new project.
+   - Enable Authentication in the Firebase project settings.
+   - Add the Email/Password and Google Sign-In providers.
+   - Set up Firestore Database.
+   - Get your Firebase Config and replace the placeholders in the code.
+
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## 🚀 Usage
+
+1. **Sign-Up**: Create a new account by providing the required details (name, email, password, phone, address, and profile image).
+2. **Sign-In**: Log in using Email/Password or Google Sign-In.
+3. **View Profile**: After signing in, view the user's details on the homepage.
+4. **Sign-Out**: Log out to end the session.
+
+## 📂 Project Structure
+
+```
+firebase-auth-system/
+├── lib/
+│   ├── components/
+│   │   ├── sign_in.dart
+│   │   ├── sign_up.dart
+│   │   └── home_page.dart
+│   ├── firebase/
+│   │   └── firebase_config.dart
+│   ├── main.dart
+│   └── styles/
+│       └── app_styles.dart
+├── pubspec.yaml
+└── README.md
+```
+
+## 🔑 Firebase Configuration
+
+Replace the Firebase configuration in `lib/firebase/firebase_config.dart` with your Firebase project credentials:
+
+```dart
+const firebaseConfig = {
+  "apiKey": "YOUR_API_KEY",
+  "authDomain": "YOUR_AUTH_DOMAIN",
+  "projectId": "YOUR_PROJECT_ID",
+  "storageBucket": "YOUR_STORAGE_BUCKET",
+  "messagingSenderId": "YOUR_MESSAGING_SENDER_ID",
+  "appId": "YOUR_APP_ID"
+};
+
+```dart
+firebase.initializeApp(options: firebaseConfig);
+```
+
+## 📋 Firebase Screenshots
+<img src = "https://github.com/user-attachments/assets/d0d0ff8b-4809-42e5-b7f8-8767bb0379ae" height = 65% width = 50%>
+<img src = "https://github.com/user-attachments/assets/c151ee9d-f04b-4ed3-bc18-1e142cbb5bd0" height = 65% width = 50%>
+
+## Demo
+
+
+Uploading 2mm2fak5.mp4…
+
+
+<img src = "https://github.com/user-attachments/assets/6583e14d-91df-4c3f-92f8-dee67d23d39c" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/0d94de57-b6e4-467d-b674-348860d0c77a" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/29cbbca1-06ad-4760-8f03-41663fff03c5" height = 65% width = 25%>
 
 
 
