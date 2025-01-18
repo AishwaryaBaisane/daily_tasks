@@ -243,33 +243,33 @@ firebase-auth-system/
 ```
 <br>
 
-## 📋 Firebase Screenshots
+## 📋 Screenshots
 
 <img src = "https://github.com/user-attachments/assets/d0d0ff8b-4809-42e5-b7f8-8767bb0379ae" height = 70% >
 <br>
 <br>
-
 <img src = "https://github.com/user-attachments/assets/c151ee9d-f04b-4ed3-bc18-1e142cbb5bd0" height = 70% >
 <br>
-
-## 📽️ Demo 
-<div align="center">
-  <video height="450" controls src="https://github.com/user-attachments/assets/e1a830f4-a061-4aa9-bfb2-46bbed947e98"></video>
-</div>
-
 <br>
-
-## 📋 Screenshots
 
 <img src = "https://github.com/user-attachments/assets/29cbbca1-06ad-4760-8f03-41663fff03c5" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/6583e14d-91df-4c3f-92f8-dee67d23d39c" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/0d94de57-b6e4-467d-b674-348860d0c77a" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/0d035381-e3b2-49e4-9a0a-cf28d92ff981" height = 65% width = 25%>
+<img src = "https://github.com/user-attachments/assets/f8703a17-7534-451c-968b-7bfc8bce9e8c" height = 65% width = 25%>
 <br>
 
 ## 📽️ Demo 
 <div align="center">
-  <video height="450" controls src="https://github.com/user-attachments/assets/f5cea04f-9b72-42b5-b8e1-b4deba832441"></video>
+  <video height="450" controls src="https://github.com/user-attachments/assets/115c5fb9-4467-4324-992c-eb30ef33817d"></video>
 </div>
+<div align="center">
+  <video height="450" controls src="https://github.com/user-attachments/assets/e1a830f4-a061-4aa9-bfb2-46bbed947e98"></video>
+</div>
+
+
+
+
 
 
 
