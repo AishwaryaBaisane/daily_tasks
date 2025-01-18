@@ -158,20 +158,19 @@ Displays a toast notification when the user is offline.
 <br>
 <br>
 
-# Firebase Authentication System
+# 🔐 Firebase Authentication System
 
-## 🌟 Features
+## 🚀 Features:
 
 - **SignIn, SignUp, and SignOut System** using Firebase Authentication.
 - Supports **Email/Password** and **Google Sign-In** for authentication.
-- Displays the logged-in user's details on the homepage.
-- Collects and stores additional user details during sign-up:
-  - Name
-  - Email
-  - Password
-  - Phone
-  - Address
-  - Profile Image
+- Collects and saves user details such as:
+   - Name 🧑‍💼
+   - Email 📧
+   - Password 🔑
+   - Phone 📱
+   - Address 🏠
+   - Profile Image 🖼️
 
 ## 🛠️ Technologies Used
 
