@@ -230,8 +230,8 @@ firebase-auth-system/
 
 
 ## 📋 Firebase Screenshots
-<img src = "https://github.com/user-attachments/assets/d0d0ff8b-4809-42e5-b7f8-8767bb0379ae" height = 65% width = 50%>
-<img src = "https://github.com/user-attachments/assets/c151ee9d-f04b-4ed3-bc18-1e142cbb5bd0" height = 65% width = 50%>
+<img src = "https://github.com/user-attachments/assets/d0d0ff8b-4809-42e5-b7f8-8767bb0379ae" height = 70% >
+<img src = "https://github.com/user-attachments/assets/c151ee9d-f04b-4ed3-bc18-1e142cbb5bd0" height = 70% >
 
 ## 📽️ Demo 
 <div align="center">
@@ -241,9 +241,9 @@ firebase-auth-system/
 
 ## 📋 Screenshots
 
+<img src = "https://github.com/user-attachments/assets/29cbbca1-06ad-4760-8f03-41663fff03c5" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/6583e14d-91df-4c3f-92f8-dee67d23d39c" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/0d94de57-b6e4-467d-b674-348860d0c77a" height = 65% width = 25%>
-<img src = "https://github.com/user-attachments/assets/29cbbca1-06ad-4760-8f03-41663fff03c5" height = 65% width = 25%>
 
 ## 📽️ Demo 
 <div align="center">
