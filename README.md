@@ -245,10 +245,10 @@ firebase-auth-system/
 
 ## 📋 Screenshots
 
-<img src = "https://github.com/user-attachments/assets/d0d0ff8b-4809-42e5-b7f8-8767bb0379ae" height = 70% >
+<img src = "https://github.com/user-attachments/assets/d0d0ff8b-4809-42e5-b7f8-8767bb0379ae" height = 60% >
 <br>
 <br>
-<img src = "https://github.com/user-attachments/assets/c151ee9d-f04b-4ed3-bc18-1e142cbb5bd0" height = 70% >
+<img src = "https://github.com/user-attachments/assets/c151ee9d-f04b-4ed3-bc18-1e142cbb5bd0" height = 60% >
 <br>
 <br>
 
