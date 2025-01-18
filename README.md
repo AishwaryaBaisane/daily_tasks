@@ -252,11 +252,13 @@ firebase-auth-system/
 <br>
 <br>
 
+<div align="center">
 <img src = "https://github.com/user-attachments/assets/29cbbca1-06ad-4760-8f03-41663fff03c5" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/6583e14d-91df-4c3f-92f8-dee67d23d39c" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/0d94de57-b6e4-467d-b674-348860d0c77a" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/0d035381-e3b2-49e4-9a0a-cf28d92ff981" height = 65% width = 25%>
 <img src = "https://github.com/user-attachments/assets/f8703a17-7534-451c-968b-7bfc8bce9e8c" height = 65% width = 25%>
+</div>
 <br>
 
 ## 📽️ Demo 
