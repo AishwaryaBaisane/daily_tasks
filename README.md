@@ -183,18 +183,13 @@ Displays a toast notification when the user is offline.
 
 ## 🛠️ Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/firebase-auth-system.git
-   cd firebase-auth-system
-   ```
 
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    flutter pub get
    ```
 
-3. Set up Firebase:
+2. Set up Firebase:
    - Go to the [Firebase Console](https://console.firebase.google.com/).
    - Create a new project.
    - Enable Authentication in the Firebase project settings.
@@ -202,7 +197,7 @@ Displays a toast notification when the user is offline.
    - Set up Firestore Database.
    - Get your Firebase Config and replace the placeholders in the code.
 
-4. Run the app:
+3. Run the app:
    ```bash
    flutter run
    ```
@@ -232,23 +227,6 @@ firebase-auth-system/
 └── README.md
 ```
 
-## 🔑 Firebase Configuration
-
-Replace the Firebase configuration in `lib/firebase/firebase_config.dart` with your Firebase project credentials:
-
-```dart
-const firebaseConfig = {
-  "apiKey": "YOUR_API_KEY",
-  "authDomain": "YOUR_AUTH_DOMAIN",
-  "projectId": "YOUR_PROJECT_ID",
-  "storageBucket": "YOUR_STORAGE_BUCKET",
-  "messagingSenderId": "YOUR_MESSAGING_SENDER_ID",
-  "appId": "YOUR_APP_ID"
-};
-
-```dart
-firebase.initializeApp(options: firebaseConfig);
-```
 
 ## 📋 Firebase Screenshots
 <img src = "https://github.com/user-attachments/assets/d0d0ff8b-4809-42e5-b7f8-8767bb0379ae" height = 65% width = 50%>
